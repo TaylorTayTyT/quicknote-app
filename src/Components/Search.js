@@ -1,6 +1,6 @@
+
 function Search () {
-    return <>Search</>;
-  }
-  
-  export default Search;
-  
+  return <>Search</>;
+}
+
+export default Search;

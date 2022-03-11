@@ -1,6 +1,5 @@
 function DisplayNotes () {
-    return <>DisplayNotes</>;
-  }
-  
-  export default DisplayNotes;
-  
+  return <>DisplayNotes</>;
+}
+
+export default DisplayNotes;

@@ -1,6 +1,5 @@
 function AddNote () {
-    return <>AddNote</>;
-  }
-  
-  export default AddNote;
-  
+  return <>AddNote</>;
+}
+
+export default AddNote;
